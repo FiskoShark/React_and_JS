@@ -1,0 +1,29 @@
+# Залежності
+node_modules/
+jspm_packages/
+
+# Логи
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Змінні оточення
+.env
+.env.local
+.env.*.local
+
+# Результати збірки
+dist/
+build/
+*.tgz
+
+# Файли ОС
+.DS_Store
+Thumbs.db
+
+# Налаштування IDE
+.idea/
+.vscode/
+*.swp
